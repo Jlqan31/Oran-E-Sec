@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oran E-Sec</h1>
+<h1 align="center">Yoo, I'm Oran E-Sec</h1>
 <h3 align="center">vulnerability researcher</h3>
 
 - 📫 How to reach me **oranesec@gmail.com**
