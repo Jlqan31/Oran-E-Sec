@@ -1,4 +1,3 @@
-[![MasterHead]https://a.pinatafarm.com/498x250/782d0e627d/you-da-best-5bc8fc93801b3cfee5e02432876a8166-meme.jpeg
 <h1 align="center">Hi 👋, I'm Oran E-Sec</h1>
 <h3 align="center">Vulnerability Researcher From Turkiye</h3>
 
